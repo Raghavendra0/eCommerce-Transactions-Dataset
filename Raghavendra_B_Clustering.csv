@@ -1,0 +1,2 @@
+# Save results to CSV
+segmentation_data.to_csv('Raghavendra_B_Clustering.csv', index=False)
